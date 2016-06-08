@@ -1,0 +1,7 @@
+**/cluster*/data
+**/cluster*/logs
+**/cluster*/tmps
+**/cluster*/pids
+**/cluster*/xtmp
+**/cluster*/sock
+
